@@ -1,0 +1,6 @@
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.csprojAssemblyReference.cache
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.csproj.CoreCompileInputs.cache
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.RazorAssemblyInfo.cache
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.RazorAssemblyInfo.cs
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.AssemblyInfoInputs.cache
+C:\Users\liulida\Desktop\serilog\asp.net.serilog.sample\obj\Debug\netcoreapp2.2\asp.net.serilog.sample.AssemblyInfo.cs
